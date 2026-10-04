@@ -1,0 +1,19 @@
+.gradle/
+.gradle-native/
+local.properties
+**/build/
+.idea/
+*.iml
+*.jks
+captures/
+*.log
+.test-backups/
+# Local emulator captures; only curated synthetic previews are committed.
+screenshots/*.xml
+screenshots/*.png
+*.apk
+*.aab
+*.db
+*.db-journal
+*.db-wal
+*.db-shm

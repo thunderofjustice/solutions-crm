@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">soLUtions CRM</string>
+    <string name="app_version">soLUtions CRM · 1.0.0</string>
+    <color name="brand_teal">#04C5CC</color>
+</resources>

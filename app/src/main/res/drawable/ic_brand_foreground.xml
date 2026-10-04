@@ -1,0 +1,8 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Keep both parts of the monogram inside Android's adaptive mask. -->
+    <group android:pivotX="54" android:pivotY="54" android:scaleX="0.66" android:scaleY="0.66" android:translateX="-4">
+    <path android:fillColor="#FFFFFF" android:pathData="M61,33 C55,28 49,26 42,26 C30,26 23,33 23,43 C23,53 30,57 41,61 C48,64 51,65 51,69 C51,73 47,76 42,76 C35,76 29,73 24,69 L18,79 C25,84 33,87 42,87 C55,87 64,80 64,69 C64,59 56,54 46,50 C39,47 36,46 36,42 C36,39 39,37 43,37 C48,37 52,39 56,42 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M73,68 C72,67 70,67 69,67 C65,67 63,70 63,74 C63,78 65,81 69,81 C71,81 72,80 73,79 L71.5,77 C71,77.5 70,78 69,78 C67,78 66,76.5 66,74 C66,71.5 67,70 69,70 C70,70 71,70.5 71.5,71 Z M75,67 L80,67 C83,67 85,68.5 85,71 C85,73 84,74 82,75 L85.5,81 L82,81 L79,75.5 L78,75.5 L78,81 L75,81 Z M78,70 L78,73 L80,73 C81.5,73 82,72.5 82,71.5 C82,70.5 81.5,70 80,70 Z M88,81 L88,67 L91,67 L94,73 L97,67 L100,67 L100,81 L97,81 L97,72.5 L94,78 L91,72.5 L91,81 Z" />
+    </group>
+</vector>
